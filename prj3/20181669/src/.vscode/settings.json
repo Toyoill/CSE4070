@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "off_t.h": "c",
+        "thread.h": "c"
+    }
+}

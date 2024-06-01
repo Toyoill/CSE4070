@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "off_t.h": "c",
+        "thread.h": "c",
+        "synch.h": "c",
+        "io.h": "c",
+        "loader.h": "c",
+        "pte.h": "c",
+        "palloc.h": "c",
+        "stdlib.h": "c",
+        "frame.h": "c",
+        "vaddr.h": "c",
+        "*.inc": "c",
+        "file.h": "c",
+        "malloc.h": "c",
+        "string.h": "c",
+        "inode.h": "c",
+        "pagedir.h": "c",
+        "tests.h": "c",
+        "page.h": "c",
+        "debug.h": "c",
+        "main.h": "c",
+        "hash.h": "c",
+        "limits.h": "c",
+        "swap.h": "c",
+        "functional": "c",
+        "typeinfo": "c",
+        "tss.h": "c"
+    }
+}
